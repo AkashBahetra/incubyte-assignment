@@ -35,3 +35,7 @@ Format your code in watch mode, waiting for file changes.
 3. Allow the add method to handle new lines between numbers (instead of commas).
 4. Support different delimiters
 5. Calling add with a negative number will throw an exception: "negative numbers not allowed <negative_number>".
+
+Additional Cases:
+
+1.Numbers bigger than 1000 should be ignored
