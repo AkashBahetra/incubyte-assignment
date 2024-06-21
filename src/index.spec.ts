@@ -1,5 +1,7 @@
+import { add } from './index';
+
 describe('add Numbers', () => {
   it('exists', () => {
-    expect(addNumbers).toBeDefined();
+    expect(add).toBeDefined();
   })
 });
